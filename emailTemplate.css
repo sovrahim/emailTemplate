@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+body   {
+    font-family: 'Fjalla One', sans-serif;
+    background-color: linear-gradient(to right, rgb#a1a98a, #ffffff)
+}     
+
+    .container{
+        width: 90vw;
+        height: 90vw;
+        background-color:  rgb(211, 211, 190);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;}
+
+    .column1{
+        background-color: blanchedalmond;
+    }
+
+    .column2{
+        background-color: rgb(122, 96, 57);
+    }
+
+    .column3{
+        background-color: rgb(84, 77, 65);
+        text-color: rgb(blanchedalmond)
+    }
